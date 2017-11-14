@@ -77,6 +77,7 @@ return array(
                 'eval' => 'datetime',
                 'checkbox' => 1,
                 'default' => time(),
+                'renderType' => 'inputDateTime'
             ),
         ),
         'tstamp' => array(
@@ -89,6 +90,7 @@ return array(
                 'eval' => 'datetime',
                 'checkbox' => 1,
                 'default' => time(),
+                'renderType' => 'inputDateTime'
             ),
         ),
 
